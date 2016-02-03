@@ -1,9 +1,17 @@
 class Main{
 
+//global Variables
 
     public static void main(String[] args) {
 
-        print("hello world");
+//main variables 
+
+//data preprocessing  
+
+//program logic 
+
+//clean up 
+
 
 
     }
